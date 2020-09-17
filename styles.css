@@ -1,0 +1,64 @@
+:root {
+    --main-color: #ff003d; /*Main color*/
+    --sub-color: #d10031; /*alt color*/
+    --back-color: #17161B; /*Background color*/
+    --back-color-alt: #383641; /*Alt background color*/
+    --divisor: #27262C; /*Divisor color*/
+    --selected-tweet: #AAAAAA;
+  }
+
+
+/*Post/timeline Divisor*/
+.r-aaos50 {
+    background-color: #27262C!important;
+}
+
+
+
+
+/*Ignore this if you're not into CSS*/
+
+.r-1uaug3w{
+    background-color: var(--selected-tweet) !important; 
+}
+
+body {
+    background-color: var(--back-color) !important; 
+}
+
+
+.r-yfoy6g {
+    background-color: var(--back-color-alt) !important; 
+}
+
+
+.r-1n1174f {
+    color: var(--main-color) !important;
+}
+
+.r-13gxpu9 {
+    color: var(--main-color)!important;
+}
+
+.r-p1n3y5 {
+    border-color: var(--main-color)!important;
+}
+
+/*Tweet button off*/
+.r-urgr8i{
+    background-color: var(--main-color) !important;;
+}
+
+/*Tweet button on*/
+.r-1q3imqu{
+    background-color: var(--sub-color) !important;
+}
+
+.r-18p3no4 {
+    border-bottom-color: var(--main-color) !important;;
+}
+
+._3K5j589m2GGg7J3pR96mQf {
+    color: var(--main-color)!important;
+}
+

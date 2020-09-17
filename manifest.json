@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+   
+    "name": "Twitter themer",
+    "version": "0.1.0",
+    "description": "WIP",
+   
+    "content_scripts": [{
+      "css": ["styles.css"],
+      "matches": ["*://*.twitter.com/*"]
+    }]
+   
+  }
